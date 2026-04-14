@@ -59,3 +59,9 @@ Thumbs.db
 # Claude
 CLAUDE.local.md
 .claude/settings.local.json
+
+# Mindforge-specific
+history/
+backend/puzzles/*.json
+!backend/puzzles/examples/
+plan.md
